@@ -2,88 +2,312 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-04-06 05:14 UTC
+Last Updated: 2026-04-13 05:31 UTC
 
 ### Channels Added
-- AMC Latin America (1280p)
-- AP1 TV
-- AXN Latin America South (2160p)
-- Asianet HD (1080p)
-- CCTV-16
-- Cine.Ar (1080p)
-- Colors Tamil (576p)
-- Cronica TV (1280p)
-- DeporTV
-- DirecTV Sports (1080p)
-- Disney Jr. Latin America South
-- Disney Jr. Latin America South HD (1080p)
-- Divyavani TV (576p)
-- Encuentro (1080p)
-- History Asia
-- Hungama TV (576p)
-- Isai Aruvi (576p)
-- LaLiga Hypermotion (1080p)
-- Naftemporiki TV (1080p)
-- Nanduti (720p)
-- National Geographic HD (1080p)
-- Pakapaka (1080p)
-- Pluto TV Futbol Para Fans (1080p)
-- Productiva TV
-- Quiero Musica en mi Idioma (1080p)
-- Sony BBC Earth (576p)
-- Sony SAB (576p)
-- Spacetoon Arabic (1080p)
-- Star Sports 1 Hindi (576p)
-- Star Sports 1 Tamil HD (1080p)
-- Star Sports 2 Hindi HD (1080p)
-- Syrian Satellite Channel (1080p)
-- TN (2160p)
-- TUDN (1080p)
-- TV Aire
-- Telefe (1080p)
-- Telefe Santa Fe (1080p)
-- Telemundo Internacional Central America (1080p)
-- Tigo Sports (720p)
-- Zee Cinema HD (1080p)
-- Zee Cinemalu HD (1080p)
-- Zee TV (1080p)
-- Zee Telugu HD (1080p)
-- Zee Thirai (576p)
+- A&E Latin America South (480p)
+- A24 Paraguay
+- Al Iraqia (720p) [Geo-blocked]
+- Al Iraqia News (720p) [Geo-blocked]
+- Al-Aimma TV (1080p)
+- Al-Souriya TV (1080p)
+- America Internacional (720p)
+- Antena HD
+- Azstar TV HD (1080p)
+- BTB Info (1080p)
+- BTB International (1080p)
+- Big TV 24x7 (576i)
+- C5N (1080p)
+- CBC Sport HD [Geo-blocked]
+- Channel 10 (576i)
+- Channel 4 (1080p)
+- Cinecanal South (1080p)
+- Citrico TV (480p) [Not 24/7]
+- Ciudad Magazine (720p)
+- Class CNBC (1080p) [Geo-blocked]
+- Color Vision (1080p)
+- Comedy Central Latin America (1080p)
+- Deluxe 139 (480p)
+- Deportes TVC (1080p)
+- Disney Channel Latin America (1080p)
+- DuacaVision
+- E! Latin America (720p)
+- E4 (1080p)
+- Ebony TV by Lionsgate (1080p)
+- Echo24 (720p)
+- El Gourmet South (720p)
+- El Nueve (720p)
+- En Lengua de Senas TV (720p)
+- English Club TV
+- Espreso TV
+- FX Latin America South (720p)
+- Film4 (1080p)
+- Fox Sports 3 Latin America (1080p)
+- History 2 Latin America (480p)
+- History Hit (1080p)
+- History Latin America South (480p)
+- IP Noticias (480p)
+- ITV1 (1080p)
+- ITV2 (1080p)
+- JOAK-DTV (544p)
+- JOAX-DTV (544p)
+- JOEX-DTV (544p)
+- JORX-DTV (544p)
+- JTV Madiun
+- JTV Malang
+- Jordan Sport (1080p)
+- KCHTV (1080p)
+- KNSO 51.1 (1080p)
+- Kalaignar TV (576p)
+- La Nacion + (720p)
+- LaLiga TV
+- Las Estrellas Latin America (1080p)
+- Lifetime Latin America (720p)
+- MTV Latin America
+- MTV Lebanon (1080p)
+- Makon TV (576i)
+- Mega Cine TV (1080p)
+- Mega TV (1080p)
+- Metro (480p)
+- MusicTop (1080p)
+- My Kidz (720p)
+- National Geographic Latin America South (720p)
+- NatureTime
+- NatureTime Finland (1080p)
+- NickOnline (720p)
+- Nuta TV
+- Orbita Chile TV (1080p)
+- Planeta Channel
+- Polsat 1 (1080p)
+- Polsat Reality (1080p)
+- Polsat Seriale (1080p)
+- Polsat Sport Premium 2 (1080p)
+- Prag News (576p)
+- RCC TV (1080p) [Not 24/7]
+- ROCK Action (720p)
+- ROCK Entertainment (720p)
+- RPP TV (1080p)
+- Radio Norba TV (1080p)
+- Realitatea Plus (720p)
+- Red Digital (1080p) [Not 24/7]
+- SBN TV International
+- SBT Cuiaba
+- SIC Notícias (1080p) [Geo-blocked]
+- SNT (1080p)
+- Sai TV (576p)
+- Sky Mix (1080p)
+- Sky Racing 1 (720p)
+- Sky Racing 2 (720p)
+- Studio Universal Latin America South (720p)
+- Szlagier TV (1080p)
+- TV Pampa
+- TV Publica (720p)
+- TV Regionalna Lubin (1080p)
+- TV Trwam (1080p) [Geo-blocked]
+- TVC
+- TVT (720p)
+- Taha TV (576p)
+- Tele5
+- Telemontecarlo (720p)
+- Telemundo Internacional (720p)
+- Telepremier Plus (1080p)
+- Telewizja Relax (1080p)
+- The News Forum (1080p)
+- Tigo Sports (1080p)
+- Tito TV (720p)
+- Trailers (1080p)
+- Travelxp HD (1080p) [Geo-blocked]
+- Tu Musica HD (1080p) [Not 24/7]
+- TyC Sports (720p)
+- TyC Sports Latin America (1080p)
+- Universal TV Latin America South (480p)
+- VTV News (576p)
+- Villa Elisa Radio TV (1080p)
+- VitoTVO (1080p)
+- Volver (480p)
+- W Polsce PL (720p)
+- Win Sports (1080p)
+- Win+ Futbol
+- XITE 90's Throwback (1080p)
+- XITE Hits Germany (1080p)
+- XITE Hits UK (1080p)
 
 ### Channels Removed
-- &flix HD (1080p)
-- CCTV-16 (2160p) [Geo-blocked]
-- El Trece (1080p)
-- Isai Aruvi (396p)
-- National Geographic HD
-- OCN (576p)
-- Sony BBC Earth HD (1080p)
-- Sony Max 2 (576p)
-- Sony Max HD (1080p)
-- Sony Pal (576p)
-- Sony Sports Ten 5 (480p)
-- Star Bharat (576p)
-- Star Movies Select HD (1080p)
-- TV Publica (576p)
-- Trece Paraguay (1080p) [Not 24/7]
-- Zee Cinema HD (480p)
+- 2x2
+- Al Iraqia (720p)
+- Al Iraqia News (720p)
+- Al Mamlaka TV (1080p)
+- Al-Majd Holy Quran
+- Antena HD (1080p)
+- Azstar TV (1080p)
+- BBC Brit (1080p)
+- BBC First (1080p)
+- BBC Lifestyle (1080p)
+- BTB International
+- BTB Music (1080p)
+- Biznes 24 (1080p)
+- CBC Sport [Geo-blocked]
+- CBeebies
+- Channel 4
+- Citrico TV (360p) [Not 24/7]
+- Ciudad Magazine (1080p) [Geo-blocked]
+- Class CNBC
+- Color Vision (480p) [Not 24/7]
+- Crime + Investigation Polsat (1080p)
+- Da Vinci (1080p)
+- DocuBox (1080p)
+- Ebony TV (1080p)
+- Ebony TV (1080p) [Geo-blocked]
+- Ebony TV by Lionsgate (1080p) [Geo-blocked]
+- Echo24 (1080p)
+- English Club TV (1080p)
+- Espreso TV (1080p)
+- Extreme Sports Channel Polska (1080p)
+- FashionBox (1080p)
+- FightBox (1080p)
+- FilmBox Action (576p)
+- FilmBox Family (576p)
+- FilmBox Premium (1080p)
+- Gametoon (1080p)
+- Helwa TV (1080p)
+- History (1080p)
+- History 2 (1080p)
+- History Hit (720p)
+- Home TV
+- I24 News Arabic (720p)
+- INWILD (1080p) [Geo-blocked]
+- ITV2 (720p) [Geo-Blocked]
+- JAZZ (1080p)
+- JORX-DTV
+- Jordan Sport (1080p) [Geo-blocked]
+- Junior Music HD (1080p)
+- Kalaignar TV (396p)
+- Kapitan Bomba TV
+- Kino Polska (1080p)
+- Kino Polska Muzyka (576p)
+- Kino TV (1080p)
+- La Caleta TV (720p) [Not 24/7]
+- Love Magazine (1080p)
+- MTV (1080p)
+- Mega Cine TV (720p)
+- Mega TV (720p) [Not 24/7]
+- Mixtape TV (1080p)
+- Motowizja (1080p)
+- MovieSphere by Lionsgate (720p)
+- Mr. Bean Anime (1080p)
+- Music Box Polska (1080p)
+- Nash Bridges
+- Nash Bridges (720p)
+- Nash Bridges (720p) [Geo-blocked]
+- Nat Geo People
+- National Geographic (1080p)
+- National Geographic Wild (1080p)
+- Nature Time (1080p)
+- News24 (1080p)
+- Nick Jr.
+- NickOnline (576p)
+- Nickelodeon
+- Nippon TV (540p) [Not 24/7]
+- Novela TV (1080p)
+- Nuta TV (1080p)
+- OuterSphere
+- OuterSphere (1080p) [Geo-blocked]
+- Outersphere (1080p)
+- Paramount Network (1080p)
+- Polsat JimJam (576p)
+- Polsat Viasat Explore (1080p)
+- Polsat Viasat History (1080p)
+- Polsat Viasat Nature (1080p)
+- Porucznik Kabura TV (1080p)
+- RPP TV
+- Rajawali TV
+- RecordTV Europa (720p) [Geo-blocked]
+- Red Carpet TV (1080p)
+- Romance TV (1080p)
+- SBN TV International (576p)
+- SIC Notícias (1080p)
+- SNT (480p)
+- ShowBox (576p)
+- Sky Racing 1 (720p) [Geo-blocked]
+- Sky Racing 2 (720p) [Geo-blocked]
+- Sony BBC Earth (576p)
+- Star Sports 1 HD (1080p)
+- Star Sports 3 (576p)
+- Star Utsav (576p)
+- Stopklatka TV (1080p)
+- StudioMed TV (1080p)
+- Sundance TV
+- Syrian Satellite Channel (1080p)
+- Szlagier TV
+- TUDN (1080p) [Geo-blocked]
+- TV Republika (1080p)
+- TV Republika Plus (1080p)
+- TV Toya (1080p)
+- TV Trwam (1080p)
+- TVI África (480p) [Not 24/7]
+- TVP 3 Lodz (1080p)
+- TVS (1080p)
+- TVT (1080p)
+- Taha TV
+- Tele5 (1080p)
+- TelePortal Canal 53.1 (1080p) [Geo-blocked]
+- Telemundo Internacional (480p)
+- The Conners
+- The Conners (720p) [Geo-blocked]
+- Timeline (1080p)
+- Top Kids (1080p)
+- Top Kids HD (1080p)
+- Travelxp HD (1080p)
+- Tu Musica HD (720p)
+- TyC Sports (1080p) [Geo-blocked]
+- Viasat True Crime (1080p)
+- W Polsce PL (1080p)
+- WP TV (1080p)
+- Water Planet (1080p)
+- Win+ Futbol (1080p)
+- Zee Tamil (576p)
+- Zoom TV (1080p)
 
 ### Channels Updated (Link Changed)
-- C9N
-- Colors Cineplex Bollywood (576p)
-- Colors Tamil HD (1080p)
-- MTV HD (1080p)
-- National Geographic Wild HD (1080p)
-- Nick Jr. (576p)
+- &pictures HD (1080p)
+- ADB TV (1080p)
+- AION TV (1080p) [Not 24/7]
+- Boreal (720p) [Not 24/7]
+- CNT Mas TV (720p) [Not 24/7]
+- COCO TV (1080p) [Not 24/7]
+- Codigo TV (1080p) [Not 24/7]
+- Disney Channel (1080p)
+- Disney Channel (576p)
+- ESPN Deportes (360p)
+- Enntivision (1080p) [Not 24/7]
+- Food Food (576p)
+- Informe TV (1080p) [Not 24/7]
+- Jaya Max (576p)
+- KMCI-DT1 (720p)
+- Love Pets (1080p)
+- Miavision TV (1080p) [Not 24/7]
+- NatureTime (1080p)
 - Nickelodeon (576p)
+- Noticias 16 (720p) [Not 24/7]
 - PTV Sports
 - PTV Sports
-- Romedy Now (576p)
-- Sony Entertainment Television HD (1080p)
-- Sony Sports Ten 5 HD (1080p)
-- Star Gold 2 (576p)
-- Star Gold Romance (576p)
-- Star Gold Thrills (576p)
-- Star Movies HD (1080p)
-- Star Vijay (576p)
-- Vijay Super (576p)
+- RDN (1080p) [Not 24/7]
+- Santiago TV (720p) [Not 24/7]
+- Star Channel Latin America South (1080p)
+- Star Sports 1 Tamil (576p)
+- TBN Polska (1080p)
+- TUDN (1080p)
+- TV Daja (1080p) [Not 24/7]
+- TVC (1080p)
+- TVI (720p)
+- TeleCibaoHD (720p) [Not 24/7]
+- Telecanal 12 (720p) [Not 24/7]
+- Telecanal 28 (1080p) [Not 24/7]
+- Telemax (1080p) [Not 24/7]
+- Television del Este (1080p) [Not 24/7]
+- Tenarenses TV (1080p) [Not 24/7]
+- The Chat Show Channel (1080p)
+- XITE Nuevo Latino (1080p)
+- XITE Siempre Latino (1080p)
+- Xtra Tv (720p) [Not 24/7]
+- Zee Thirai HD (1080p)
