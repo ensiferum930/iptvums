@@ -2,64 +2,161 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-04-16 15:43 UTC
+Last Updated: 2026-04-20 05:30 UTC
 
 ### Channels Added
-- 2x2 (576i)
-- Aaj Tak (1080p)
-- BBC News Europe (1080p)
-- BTB Music (1080p)
-- Benie TV (720p)
-- BeritaSatu (1080p)
-- Bollywood Classic (1080p)
-- Bollywood HD (1080p)
-- Canal 24 Horas (720p)
-- Clan TVE (1080p) [Geo-blocked]
-- Drive (576i)
-- Epic Music (720p)
-- Glazami Turista (576i)
-- Goldmines Movies (720p)
-- Gospel TV India (720p)
-- Imai TV (1080p)
-- Lana TV (576p)
-- Madha TV (576p)
-- Maha Punjabi
-- Manoranjan Prime
-- NDTV India (720p)
-- News 24 MP & Chhattisgarh (576p)
-- PTC Simran
-- Sangeet Bhojpuri (1080p)
-- Sansad TV 2
-- Shemaroo Bollywood (1080p)
-- Shemaroo Filmi Gaane (1080p)
-- Teledeporte (720p) [Geo-blocked]
-- Trace Urban HD (1080p)
-- TyC Sports (1080p) [Geo-blocked]
-- Watch it KID! (480i)
+- &pictures HD (1080p)
+- 13 Ulica (1080p)
+- AP1 TV (720p)
+- Algo Media TV (720p) [Not 24/7]
+- Altanto TV (1080p) [Not 24/7]
+- BTV (1080p)
+- Bollywood HD Russia (576p)
+- CDN (480p) [Not 24/7]
+- Canal CHD
+- Canal Pulpo TV
+- Cinevision Canal 19 (1080p) [Not 24/7]
+- City One Television (1080p)
+- Colors Gujarati (1080p)
+- Colors Rishtey Asia (1080p)
+- Dharsan TV (720p)
+- Disney Junior (1080i)
+- E-Vidya 1 (576p)
+- E-Vidya 2 (576p)
+- E-Vidya 3 (576p)
+- E-Vidya 4 (576p)
+- E-Vidya 7 (576p)
+- Emisora Las Vegas
+- Epic TV Digital (1080p)
+- Flowers TV (576p)
+- GET tv (1080p) [Not 24/7]
+- Hebron TV (1080p)
+- J Movie (576p)
+- J Music TV (480p)
+- Jaya TV (1080p)
+- Kalaignar TV (396p)
+- La Hora TV (720p) [Not 24/7]
+- La Salvacion del Alma TV
+- Linieros TV (480p) [Not 24/7]
+- METV HD (1080p)
+- Makina TV (720p) [Not 24/7]
+- Medi 1 TV Arabic (1080p)
+- Medi 1 TV Maghreb (1080p)
+- Metaleitor TV
+- Ministerio La Voz De Un Remanente TV
+- Mision ELTV (720p)
+- NTV Telugu (1080p)
+- Navarrete Television (1080p) [Not 24/7]
+- NickOnline Spongebob (720p) [Not 24/7]
+- NickToons Brasil (480p)
+- Polsat Rodzina (1080p)
+- Prattel TV
+- Premiere FC 1
+- Premiere FC 2
+- Premiere FC 3
+- Premiere FC 4
+- Premiere FC 5
+- Premiere FC 6
+- Premiere FC 7
+- Premiere FC 8
+- Raj Pariwar (576p)
+- Rede TV! Mais
+- RedeTV! Parana
+- SBT Nova Mutum
+- SBT Rondonopolis
+- SBT Sinop
+- SUR TV Itapua
+- Samachar Plus
+- Santa Cruz TV (1080p) [Not 24/7]
+- Seven Channel (720p) [Not 24/7]
+- Sony Aath (1080p) [Geo-blocked]
+- Sony BBC Earth HD (1080p) [Geo-blocked]
+- Sony Entertainment Television HD (1080p) [Geo-blocked]
+- Sony Marathi (1080p) [Geo-blocked]
+- Sony Max (1080p) [Geo-blocked]
+- Sony Max 2 (1080p) [Geo-blocked]
+- Sony Max HD (1080p) [Geo-blocked]
+- Sony Pix HD (1080p) [Geo-blocked]
+- Sony Sports Ten 1 (1080p) [Geo-blocked]
+- Sony Sports Ten 1 HD (1080p) [Geo-blocked]
+- Sony Sports Ten 2 (1080p) [Geo-blocked]
+- Sony Sports Ten 2 HD (1080p) [Geo-blocked]
+- Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
+- Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
+- Sony Sports Ten 4 (1080p) [Geo-blocked]
+- Sony Sports Ten 4 Telugu (1080p)
+- Sony Sports Ten 5 (1080p) [Geo-blocked]
+- Sony Sports Ten 5 HD (1080p) [Geo-blocked]
+- Sony Wah (1080p) [Geo-blocked]
+- Sony Yay! (1080p) [Geo-blocked]
+- SporTV (1280p)
+- SporTV 2 (1280p)
+- SporTV 2 Alternativo (720p)
+- SporTV 3 (1080p)
+- SporTV Alternativo (720p)
+- Sport 1 (1280p)
+- Star Sports 1 HD (1080p)
+- Swayam Prabha 19 (576p)
+- Swayam Prabha 20 (576p)
+- TDN Medios (720p) [Not 24/7]
+- TV Camara (1080p)
+- TVP Kultura (1080p)
+- Tigo Sports+
+- TyC Sports USA
+- WOW TV (1080p)
+- Wavez FM
+- Zee Action (576p)
+- Zee Cinemalu (576p)
+- Zee Marathi (576p)
+- Zee TV HD (1080p)
+- Zee Yuva (576p)
+- Zing! (576p)
 
 ### Channels Removed
-- &pictures HD (1080p)
-- 24 Horas (1080p)
-- 2x2 (576p)
-- Aaj Tak (720p)
-- BBC News (1080p) [Geo-blocked]
-- BeritaSatu English (1080p)
-- Clan (1280p)
-- Goldmines Movies (576p)
-- LTV (360p)
-- Madha TV (600p)
-- NDTV India (480p) [Not 24/7]
-- Sangeet Bhojpuri (576p)
-- ServusTV HD (1080p) [Geo-Blocked]
-- Shaun the Sheep & Friends (1080p)
-- Teledeporte (1080p)
-- TyC Sports (720p)
+- AP1 TV
+- BTV (720p)
+- Cinevision Canal 19 (720p)
+- Colors Rishtey Asia (576p)
+- Colors Tamil (576p)
+- Disney Junior East (720p) [Not 24/7]
+- Epic TV (1080p)
+- Hum Sitaray (576p)
+- Hungama TV (576p)
+- Kalaignar TV (576p)
+- Makina TV [Not 24/7]
+- Medi 1 TV Arabic (720p)
+- Medi 1 TV Maghreb (720p)
+- NTV Telugu (576p)
+- Raj Musix Tamil (576p)
+- Sony Aath (720p)
+- Sony Entertainment Television HD (1080p)
+- Sony Pix HD (1080p)
+- Sony SAB (576p)
+- Sony Sports Ten 2 HD (1080p)
+- Sony Sports Ten 3 Hindi (576p)
+- Sony Sports Ten 5 HD (1080p)
+- Sony Wah (576p)
+- Sony Yay! (576p)
+- Star Sports 1 Tamil (576p)
+- Star Sports 1 Tamil HD (1080p)
+- Star Vijay HD (1080p)
+- Vijay Takkar (576p)
+- Zee Tamil HD (1080p)
+- Zee Thirai (576p)
+- Zee Thirai HD (1080p)
 
 ### Channels Updated (Link Changed)
-- DD Bharati (720p)
-- LCI HD (720p) [Geo-Blocked]
-- Manoranjan Movies (720p)
-- Manoranjan TV (720p)
+- &TV HD (1080p)
+- Guaro TV (720p)
+- Jakarta Globe News Channel (1080p)
+- Jaya Max (576p)
+- MTV HD (1080p)
+- Medi1TV Afrique (1080p)
+- News 24 (1080p)
+- Nick Jr. (576p)
+- Nickelodeon (576p)
 - PTV Sports
 - PTV Sports
-- Shemaroo Umang (720p)
+- Star Vijay (576p)
+- Vijay Super (576p)
+- Zee Cinema HD (1080p)
