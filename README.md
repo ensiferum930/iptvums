@@ -2,161 +2,404 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-04-20 05:30 UTC
+Last Updated: 2026-04-27 05:43 UTC
 
 ### Channels Added
+- &flix HD (1080p)
+- &xplor HD (720p)
+- 60 Days in Jail (720p)
+- 8 Out Of 10 Cats (1080p)
+- A New Life In The Sun (1080p)
+- ABC Australia (1080p)
+- AMC Cupid (1080p)
+- AMC Reality (1080p)
+- ART Television (720p)
+- AXN Asia Indonesia (1080p) [Geo-blocked]
+- Al Jazeera 2 (1080p)
+- Al Quran Al Kareem TV (720p)
+- Al Sunnah Al Nabawiyah TV (720p)
+- Alcance FM PLAY TV
+- America Paraguay
+- America's Got Talent (1080p)
+- American Idol (1080p)
+- Andijon MTRK (576i)
+- Are We There Yet? (1080p)
+- Artist of the Year (1080p) [Geo-blocked]
+- BTB 3 (1080p)
+- Bagmati TV
+- Bialogardzka Telewizja Kablowa (1080p)
+- Bloodline Detectives (1080p)
+- Bloomberg TV+ (2160p)
+- Born to Kill (1080p)
+- British Screen Classics (1080p)
+- Buxoro MTRK (720p)
+- CBeebies Asia (720p)
+- CNBC (1080p)
+- Canal 10 (720p) [Not 24/7]
+- Canal 8 C&C Producciones
+- Cash in the Attic (720p)
+- Celestial Movies (576i)
+- Channel C (720p)
+- Channel One (720p)
+- Chaos on Cam (1080p)
+- CinemaWorld (720p)
+- Citi Hitz (720p)
+- Colors Bangla (576p)
+- Colors Cineplex (576p)
+- Colors Gujarati Cinema (360p)
+- Colors Infinity (576p)
+- Colors Kannada (576p)
+- Colors Kannada Cinema (576p)
+- Colors Kannada HD (1080p)
+- Colors Marathi (576p)
+- Colors Marathi HD (1080p)
+- Colors Super (1080p)
+- Come Dine With Me (1080p) [Geo-blocked]
+- Conan O'Brien TV (1080p)
+- Cool Summer Channel (720p)
+- Cops & Docs (720p)
+- Crime & Justice (1080p)
+- DFB Play TV (720p) [Geo-blocked]
+- Damsathara TV (720p)
+- Deadly Women (1080p)
+- Deal Masters (1080p)
+- DellaTV (720p)
+- Demand Drama (1080p)
+- Dennis and Gnasher (1080p)
+- Dhaulagiri Television
+- Digi Shala (576p)
+- DiscoverFilm (720p)
+- Dude Perfect (1080p) [Geo-blocked]
+- E-Vidya 10 (576p)
+- E-Vidya 11 (576p)
+- E-Vidya 12 (576p)
+- E-Vidya 5 (576p)
+- E-Vidya 6 (576p)
+- E-Vidya 8 (576p)
+- E-Vidya 9 (576p)
+- Earth Touch (1080p)
+- Emergency 24/7 (1080p) [Geo-blocked]
+- English Club TV (576i)
+- Epic Bhojpuri (576p)
+- Evidence of Evil (1080p)
+- Evolution Earth (1080p)
+- Family Feud (1080p)
+- Farg'ona MTRK
+- Fireplace Vibes (2160p)
+- GFN Football (1080p)
+- Get.Factual (720p)
+- Gloob Web [Not 24/7]
+- Guinness World Records (480i)
+- Gulli Girl (720p)
+- H2O & Friends (1080p)
+- Hi TV (576p)
+- History TV18 (576p)
+- Hot Ones (720p)
+- Hungama TV (576p)
+- INTER 24/7 (1080p)
+- ITN (720p)
+- Icon Film Channel (720p)
+- Insayt TV (2160p)
+- Intervention (1080p)
+- Jack Hanna (1080p)
+- Janapriyam TV (480p)
+- JimJam Europe (576p)
+- Jothi TV (1080p)
+- Jus Hindi (1080p)
+- Jus One (1080p)
+- Jus Punjabi (1080p)
+- K Content by CJ ENM (1080p)
+- Kalaignar TV (576p)
+- Kalika TV (576p)
+- LADbible (720p)
+- Lifetime Movies (1080p)
+- Location Location Location (1080p)
+- LooLoo Kids (1080p)
+- Love After Lockup (1080p)
+- Love the Planet (1080p)
+- Luxe TV (1080p)
+- M2 Petofi (720 p)
+- MTV (1080p)
+- Mango (1080p) [Geo-blocked]
+- Masha & the Bear (1080p) [Geo-blocked]
+- Masterchef UK (1080p)
+- Mayday Air Disaster (1080p)
+- Medical Detectives (720p)
+- Most Haunted (1080p)
+- NET (1080p)
+- NTV HD (1080p)
+- Nande Portetepe TV
+- National Gold TV
+- Navoiy MTRK (576i)
+- News18 Delhi NCR JK (1080p)
+- News18 Marathi (1080p)
+- Nickelodeon Asia Indonesia (1080p)
+- Nickelodeon Web (720p)
+- Nolly Africa HD (1080p)
+- Oasis TV (720p)
+- Obedira TV
+- Occidental TV
+- Ohotnik i rybolov (576i)
+- Oviedo TV
+- PGA Tour (1080p)
+- PICK Monkey Rescue (1080p) [Geo-blocked]
+- Paraguay TV
+- Parliament of Malta (1080p)
+- Pocoyo (1080p)
+- Pointless UK (1080p)
+- Pokémon (1080p)
+- Polsat Film (1080p) [Not 24/7]
+- Polsat News 2 (1080p) [Geo-blocked]
+- Rabbids Invasion (1080p)
+- Racer Select (1080p)
+- Radio Ciudad 98.9 FM TV
+- Radio San Cristobal 88.7 FM
+- Radio TV El Arca del Pacto (1080p)
+- Raj Digital Plus (576p)
+- Raj Musix Tamil (576p)
+- Raj News (576p)
+- Raj TV (576p)
+- Rally.TV FAST+ (1080p)
+- Red Interior TV
+- Regional TV Yaguaron (1080p)
+- Ridee TV (576p)
+- River Monsters (1080p)
+- Robot Wars by Mech+ (720p)
+- Rookie Blue (1080p) [Geo-blocked]
+- Rupavahini (720p)
+- Ryzhiy (576i)
+- Sarv Dharam Sangam (576p)
+- Shakthi TV (720p)
+- Sirasa TV (720p)
+- Smurf TV (720p)
+- Songdew TV (576p)
+- Sony BBC Earth HD English (1080p) [Geo-blocked]
+- Sony Entertainment Television HD (1080p)
+- So… Real (720p)
+- Sparkle Movies (720p)
+- Star Bharat (576p)
+- Star Sports 2 HD (1080p)
+- StarPlus HD (1080p)
+- Stars TV (1080p)
+- Swayam Prabha 1 (576p)
+- Swayam Prabha 10 (576p)
+- Swayam Prabha 11 (576p)
+- Swayam Prabha 12 (576p)
+- Swayam Prabha 13 (576p)
+- Swayam Prabha 14 (576p)
+- Swayam Prabha 15 (576p)
+- Swayam Prabha 16 (576p)
+- Swayam Prabha 17 (576p)
+- Swayam Prabha 18 (576p)
+- Swayam Prabha 21 (576p)
+- Swayam Prabha 22 (576p)
+- Swayam Prabha 3 (576p)
+- Swayam Prabha 4 (576p)
+- Swayam Prabha 5 (576p)
+- Swayam Prabha 6 (576p)
+- Swayam Prabha 7 (576p)
+- Swayam Prabha 8 (576p)
+- Swayam Prabha 9 (576p)
+- TV A Critica
+- TV Canindeyu (1080p)
+- TV Derana (720p)
+- TV Didula (576p)
+- TV Okazje (1080p) [Geo-blocked]
+- TV13 Gujarati (720p)
+- TV4 (1080p) [Geo-blocked]
+- TVE Internacional Europe (576p) [Geo-blocked]
+- TVE Internacional Europe HD (1080p) [Geo-blocked]
+- TVM (1080p)
+- TVMsport+ (1080p)
+- TVP HD (1080p)
+- TVS (576p) [Geo-blocked]
+- Tele Posadas (720p)
+- TeleMas (720p) [Not 24/7]
+- Telemicro Internacional (480p)
+- Telequince (1080p)
+- Tennis+ (720p) [Geo-blocked]
+- The Diary Of A CEO (1080p)
+- The LEGO Channel (1080p)
+- The Osbournes (1080p)
+- Thmanyah 1 (1080p)
+- Thmanyah 2 (1080p)
+- Thmanyah 3 (1080p)
+- TiJi (576p)
+- Times Now World (1080p)
+- Tipping Point (1080p)
+- Trace UK (1080p)
+- Travelxp Tamil (576p)
+- Tropicalia 93.9 FM (1280p)
+- True Crime UK (1080p)
+- TyC Sports (1080p)
+- U&Laughs (1080p) [Geo-blocked]
+- U&Real Heroes (1080p) [Geo-blocked]
+- U&The Past (1080p) [Geo-blocked]
+- U&Transport (1080p) [Geo-blocked]
+- UniRadio TV (1080p)
+- Untold Stories of the ER (720p)
+- Utsav Bharat (576p)
+- Vande Gujarat 1 (576p)
+- Vande Gujarat 10 (576p)
+- Vande Gujarat 11 (576p)
+- Vande Gujarat 12 (576p)
+- Vande Gujarat 13 (576p)
+- Vande Gujarat 14 (576p)
+- Vande Gujarat 15 (576p)
+- Vande Gujarat 16 (576p)
+- Vande Gujarat 2 (576p)
+- Vande Gujarat 3 (576p)
+- Vande Gujarat 4 (576p)
+- Vande Gujarat 5 (576p)
+- Vande Gujarat 6 (576p)
+- Vande Gujarat 7 (576p)
+- Vande Gujarat 8 (576p)
+- Vande Gujarat 9 (576p)
+- Venus Media (1280p) [Not 24/7]
+- Vevo '70s & '80s (1080p)
+- Vevo '90s & '00s (1080p)
+- Vevo Hip Hop & R&B (1080p)
+- Vevo Pop UK (1080p)
+- Video Game Heroes (1080p)
+- WaterBear (1080p)
+- Wheels & Steel (1080p)
+- Wild Planet (1080p)
+- Zee Bangla (576p)
+- Zee Marathi HD (1080p)
+- Zee Sarthak (576p)
+- Zee TV UK HD (1080p)
+- Zee Tamil (576p)
+- Zee Tamil News (720p)
+- Zee Thirai HD (1080p)
+- Zoopark (576i)
+- ge Fast (1080p)
+- wedo movies (1080p) [Geo-blocked]
+- wedotv Auta (480p)
+
+### Channels Removed
+- Al Quran Al Kareem TV (360p)
+- Al Sunnah Al Nabawiyah TV (360p)
+- Are we there Yet? (1080p) [Geo-blocked]
+- Asianet HD (1080p)
+- Bloomberg TV + (2160p)
+- CNBC UK (1080p) [Geo-blocked]
+- Canal 10 (720p) [Geo-blocked]
+- Deadly Women
+- DiscoverFilm
+- Disney Jr. Latin America South HD (1080p)
+- Duronto TV (720p)
+- English Club TV
+- Filamchi Bhojpuri (1080p)
+- Kalaignar TV (396p)
+- Kapamilya Channel (1080p)
+- Lego Channel (1080p)
+- Love The Planet (1080p) [Geo-blocked]
+- MYX (1080p)
+- NET [Geo-blocked]
+- NEW K-POP (1080p)
+- Nature Time (720p)
+- News18 JKLH (1080p)
+- News18 Lokmat (1080p)
+- Nolly Africa HD (1080p) [Geo-blocked]
+- ORF 1 HD (720p) [Geo-Blocked]
+- PGA Tour (1080p) [Geo-blocked]
+- Parliament TV [Geo-blocked]
+- RACER Select (1080p)
+- Raj Digital Plus (1080p)
+- Raj TV (1080p)
+- Shakthi TV (360p)
+- Songdew TV (396p)
+- Sony BBC Earth HD (1080p) [Geo-blocked]
+- Sony Entertainment Television HD (1080p) [Geo-blocked]
+- Star Gold 2 HD (1080p)
+- StarPlus (1080p)
+- TMC HD (1080p) [Geo-Blocked]
+- TV 1 (576p)
+- TVM [Geo-blocked]
+- TVP Kultura (1080p)
+- TeleMas (480p) [Geo-blocked]
+- True Crime UK (720p)
+- TyC Sports (1080p) [Geo-blocked]
+- Venus Media (720p)
+- Zee TV UK HD (720p)
+- НТВ HD (1080p)
+- Рыжий (576p)
+
+### Channels Updated (Link Changed)
 - &pictures HD (1080p)
-- 13 Ulica (1080p)
-- AP1 TV (720p)
-- Algo Media TV (720p) [Not 24/7]
-- Altanto TV (1080p) [Not 24/7]
-- BTV (1080p)
-- Bollywood HD Russia (576p)
-- CDN (480p) [Not 24/7]
-- Canal CHD
-- Canal Pulpo TV
-- Cinevision Canal 19 (1080p) [Not 24/7]
-- City One Television (1080p)
+- Colors Bangla Cinema (576p)
+- Colors Cineplex Bollywood (576p)
+- Colors Cineplex HD (1080p)
+- Colors Cineplex Superhits (576p)
 - Colors Gujarati (1080p)
 - Colors Rishtey Asia (1080p)
-- Dharsan TV (720p)
-- Disney Junior (1080i)
+- Colors Tamil HD (1080p)
+- Curiosity Now (1080p)
+- Dateline 24/7 (1080p)
 - E-Vidya 1 (576p)
 - E-Vidya 2 (576p)
 - E-Vidya 3 (576p)
 - E-Vidya 4 (576p)
 - E-Vidya 7 (576p)
-- Emisora Las Vegas
-- Epic TV Digital (1080p)
+- FailArmy
+- FailArmy (720p)
 - Flowers TV (576p)
-- GET tv (1080p) [Not 24/7]
-- Hebron TV (1080p)
+- France 24 English (1080p)
+- Great British Menu (720p)
+- Highway Thru Hell (1080p)
+- History Hunters (1080p)
+- Hoarders (720p)
+- I Survived (720p)
+- INWILD (1080p)
+- Inside Outside (720p)
 - J Movie (576p)
-- J Music TV (480p)
+- Jaya Max (576p)
 - Jaya TV (1080p)
-- Kalaignar TV (396p)
-- La Hora TV (720p) [Not 24/7]
-- La Salvacion del Alma TV
-- Linieros TV (480p) [Not 24/7]
-- METV HD (1080p)
-- Makina TV (720p) [Not 24/7]
-- Medi 1 TV Arabic (1080p)
-- Medi 1 TV Maghreb (1080p)
-- Metaleitor TV
-- Ministerio La Voz De Un Remanente TV
-- Mision ELTV (720p)
-- NTV Telugu (1080p)
-- Navarrete Television (1080p) [Not 24/7]
+- Ketchup TV (720p)
+- MTV HD (1080p)
+- Modern Marvels (720p)
+- Most Haunted
+- Mr Bean Live Action (1080p)
+- NBC News NOW (1080p)
+- NEW KMOVIES (1080p)
+- NEW KPOP (1080p)
+- NatureTime (1080p)
+- Nick HD+ (1080p)
+- Nick Jr. (576p)
 - NickOnline Spongebob (720p) [Not 24/7]
-- NickToons Brasil (480p)
-- Polsat Rodzina (1080p)
-- Prattel TV
-- Premiere FC 1
-- Premiere FC 2
-- Premiere FC 3
-- Premiere FC 4
-- Premiere FC 5
-- Premiere FC 6
-- Premiere FC 7
-- Premiere FC 8
+- Nickelodeon (576p)
+- Ninja Warrior (1080p)
+- PTV Sports
+- PTV Sports
+- Popflix (720p)
+- Project Runway (1080p)
 - Raj Pariwar (576p)
-- Rede TV! Mais
-- RedeTV! Parana
-- SBT Nova Mutum
-- SBT Rondonopolis
-- SBT Sinop
-- SUR TV Itapua
-- Samachar Plus
-- Santa Cruz TV (1080p) [Not 24/7]
-- Seven Channel (720p) [Not 24/7]
-- Sony Aath (1080p) [Geo-blocked]
-- Sony BBC Earth HD (1080p) [Geo-blocked]
-- Sony Entertainment Television HD (1080p) [Geo-blocked]
-- Sony Marathi (1080p) [Geo-blocked]
-- Sony Max (1080p) [Geo-blocked]
-- Sony Max 2 (1080p) [Geo-blocked]
-- Sony Max HD (1080p) [Geo-blocked]
-- Sony Pix HD (1080p) [Geo-blocked]
-- Sony Sports Ten 1 (1080p) [Geo-blocked]
-- Sony Sports Ten 1 HD (1080p) [Geo-blocked]
-- Sony Sports Ten 2 (1080p) [Geo-blocked]
-- Sony Sports Ten 2 HD (1080p) [Geo-blocked]
-- Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]
-- Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]
-- Sony Sports Ten 4 (1080p) [Geo-blocked]
-- Sony Sports Ten 4 Telugu (1080p)
-- Sony Sports Ten 5 (1080p) [Geo-blocked]
-- Sony Sports Ten 5 HD (1080p) [Geo-blocked]
-- Sony Wah (1080p) [Geo-blocked]
-- Sony Yay! (1080p) [Geo-blocked]
-- SporTV (1280p)
-- SporTV 2 (1280p)
-- SporTV 2 Alternativo (720p)
-- SporTV 3 (1080p)
-- SporTV Alternativo (720p)
-- Sport 1 (1280p)
+- Star Gold 2 (576p)
+- Star Gold Romance (576p)
+- Star Gold Thrills (576p)
 - Star Sports 1 HD (1080p)
+- Star Sports 1 Hindi (576p)
+- Star Utsav Movies (576p)
 - Swayam Prabha 19 (576p)
 - Swayam Prabha 20 (576p)
-- TDN Medios (720p) [Not 24/7]
-- TV Camara (1080p)
-- TVP Kultura (1080p)
-- Tigo Sports+
-- TyC Sports USA
-- WOW TV (1080p)
-- Wavez FM
+- Teletubbies (720p)
+- The Hotel Inspector (1080p)
+- The Jamie Oliver Channel (1080p)
+- The Pet Collective (720p)
+- The Wicked Tuna Channel (1080p)
+- Tipik
+- Vasantham TV (720p)
+- WPIX-DT1
+- World Poker Tour
+- World Poker Tour (1080p)
+- World War TV (1080p)
+- YAAAS! (720p) [Geo-blocked]
 - Zee Action (576p)
+- Zee Biskope (576p)
+- Zee Cinema HD (1080p)
 - Zee Cinemalu (576p)
 - Zee Marathi (576p)
 - Zee TV HD (1080p)
+- Zee Talkies HD (1080p)
 - Zee Yuva (576p)
 - Zing! (576p)
-
-### Channels Removed
-- AP1 TV
-- BTV (720p)
-- Cinevision Canal 19 (720p)
-- Colors Rishtey Asia (576p)
-- Colors Tamil (576p)
-- Disney Junior East (720p) [Not 24/7]
-- Epic TV (1080p)
-- Hum Sitaray (576p)
-- Hungama TV (576p)
-- Kalaignar TV (576p)
-- Makina TV [Not 24/7]
-- Medi 1 TV Arabic (720p)
-- Medi 1 TV Maghreb (720p)
-- NTV Telugu (576p)
-- Raj Musix Tamil (576p)
-- Sony Aath (720p)
-- Sony Entertainment Television HD (1080p)
-- Sony Pix HD (1080p)
-- Sony SAB (576p)
-- Sony Sports Ten 2 HD (1080p)
-- Sony Sports Ten 3 Hindi (576p)
-- Sony Sports Ten 5 HD (1080p)
-- Sony Wah (576p)
-- Sony Yay! (576p)
-- Star Sports 1 Tamil (576p)
-- Star Sports 1 Tamil HD (1080p)
-- Star Vijay HD (1080p)
-- Vijay Takkar (576p)
-- Zee Tamil HD (1080p)
-- Zee Thirai (576p)
-- Zee Thirai HD (1080p)
-
-### Channels Updated (Link Changed)
-- &TV HD (1080p)
-- Guaro TV (720p)
-- Jakarta Globe News Channel (1080p)
-- Jaya Max (576p)
-- MTV HD (1080p)
-- Medi1TV Afrique (1080p)
-- News 24 (1080p)
-- Nick Jr. (576p)
-- Nickelodeon (576p)
-- PTV Sports
-- PTV Sports
-- Star Vijay (576p)
-- Vijay Super (576p)
-- Zee Cinema HD (1080p)
