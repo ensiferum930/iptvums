@@ -2,179 +2,154 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-05-11 06:25 UTC
+Last Updated: 2026-05-18 06:41 UTC
 
 ### Channels Added
-- .red (576p)
-- ART (1080p)
-- AVAZ (720p)
-- AXN Asia Indonesia (720p)
-- AfroLand African (1080p)
-- AfroLand Black Experience (1080p)
-- AfroLand Comedy (1080p)
-- AfroLand Crime (1080p)
-- AfroLand Drama (720p)
-- AfroLand Faith (720p)
-- AfroLand Family (720p)
-- AfroLand Nollywood (720p)
-- AfroLand Romance (1080p)
-- AfroLand Thriller (720p)
-- AfroLandTV WW (1080p)
-- Afroland AfroKiddos (720p)
-- Afroland Documentary (814p)
-- Afroland Featured (948p)
-- Afroland Top 10 (948p)
-- Aigaio TV (720p)
-- AllHipHop (720p)
-- Amedia Premium (1080p)
-- Auto Plus (576p)
-- CCTV-4K (1080p)
-- CCTV-8K (1080p)
-- CINDIE TV (1080p)
-- Center TV (1080p)
-- Channel 8 (1080p)
-- Da Vinci (576p)
-- Detski mir (576p)
-- Dion TV (1080p)
-- El Chavo TV (720p)
-- Euronews Russian (576p)
-- Evrokino (576p)
-- Extra ProNews (576p)
-- First Business (720p)
-- HIPTV (1080p)
-- In The Black Network (720p)
-- KinoHit (576p)
-- Kinokomedija (576p)
-- Kinosemja (576p)
-- Kinosvidanie (576p)
-- La Caleta TV (720p) [Not 24/7]
-- MCM Top (576p)
-- Mama (576p)
-- Match! Boets (576p)
-- MusicBox Gold (576p)
-- OTR (576p)
-- PHLgovTV (720p)
-- PTV (720p)
-- PhillyCAM (720p)
-- Polsat (1080p)
-- RU.TV (1080p)
-- Radio Fx Net (720p)
-- Rai 5 (576p) [Geo-blocked]
-- Rai Gulp (576p)
-- Rai News 24 (720p)
-- Rai Scuola (576p) [Geo-blocked]
-- Rai YoYo (576p) [Geo-blocked]
-- Raj Digital Plus (1080p)
-- Raj Musix Tamil (1080p)
-- Rally TV (1080p)
-- Rodnoe Kino (576p)
-- Russian Extreme (576p)
-- SCTV Phim Tong Hop (720p)
-- SCTV10 (720p)
-- SCTV3 (720p)
-- SCTV7 (720p)
-- SCTV8 (720p)
-- Star Vijay HD (1080p)
-- Subbota! (1080p)
-- Super Digital TV (1080p) [Not 24/7]
-- TV 100 (720p)
-- TV 21 (576p)
-- TVO (720p) [Not 24/7]
-- Televsesvit (1080p)
-- The Shade Room (720p)
-- Thrill (540p)
-- TidPix-Authentically African (1080p)
-- Tretiy Cifrovoy (480p) [Not 24/7]
-- U (720p)
-- Unikum (576p)
-- Usadba (576p)
-- WBTV News (720p)
-- viju History (576p)
-- viju Nature (576p)
-- viju TV1000 (576p)
-- viju TV1000 action (576p)
-- viju TV1000 russkoe (576p)
-- viju+ Comedy (1080p)
-- viju+ Megahit (1080p)
-- viju+ Premiere (1080p)
-- viju+ Sport (576p)
+- &xplor HD (1080p)
+- Alabbassia TV (1080p)
+- Ando TV (1080p)
+- Antena 3 (1080p)
+- Asianet Movies HD (1080p)
+- BBC News North America (1080p)
+- Bom Cine (1080p)
+- CCTV-1 (720p)
+- CCTV-10 (720p)
+- CCTV-11 (720p)
+- CCTV-12 (720p)
+- CCTV-14 (1080p)
+- CCTV-15 (720p)
+- CCTV-16 (1080p)
+- CCTV-17 (1080p)
+- CCTV-2 (720p)
+- CCTV-3 (720p)
+- CCTV-4 (720p)
+- CCTV-5 (720p)
+- CCTV-5+ (720p)
+- CCTV-7 (720p)
+- CCTV-8 (720p)
+- Channel One HD
+- Cuatro (1080p)
+- Disney XD (720p)
+- Divinity (1080p)
+- Domashnie Zhivotnye
+- ERT Cosmos (1080p)
+- Energy (1080p)
+- Epic TV (576p)
+- FDF (1080p)
+- GTV (1080p)
+- HITS Movies HD (720p)
+- HodHod Farsi TV (1080p)
+- Indiyskoye Kino
+- La 1 Comunitat Valenciana (1080p)
+- La 8 Mediterráneo (1080p)
+- La Sexta (1080p)
+- MNX HD (1080p)
+- Mega (1080p)
+- NST
+- National Geographic HD (576p)
+- Neox (1080p)
+- NickOnline Music (720p) [Not 24/7]
+- NickOnline SD (320p) [Not 24/7]
+- Nickelodeon Asia Indonesia (720p)
+- Pravah Picture HD (1080p)
+- REN TV HD
+- Rai 1 HD (1080p)
+- Rai 2 HD (1080p)
+- Rai 3 (1080p)
+- Rai Gulp HD (1080p)
+- Rai Scuola HD (1080p)
+- Rai Sport HD (1080p)
+- Rai Storia HD (1080p)
+- Retro
+- SPOTV (720p)
+- SPOTV 2 (1080p)
+- Sony Max 2 (576p)
+- Sony Max HD (1080p)
+- Sony Sports Ten 5 HD (1080p)
+- Squirrel (1080p)
+- Squirrel Dos (1080p)
+- Star Bharat HD (1080p)
+- Star Movies Select HD (1080p)
+- Star Sports 1 Hindi HD (1080p)
+- Star Sports 1 Tamil HD (1080p)
+- Star Sports 2 Tamil (576p)
+- Star Sports 3 (576p)
+- Star Utsav (576p)
+- T24
+- TV Natal (1080p)
+- TV5 Quebec Canada (1080p)
+- Telecinco (1080p)
+- Teledeporte (1080p)
+- Trece (1080p)
+- UNE TV (720p)
+- Veo7 (1080p)
+- Vijay Super HD (1080p)
+- Voprosy i Otvety
+- Zee Thirai HD (1080p)
+- zenith (1080p)
+- À Punt (1080p)
 
 ### Channels Removed
-- AXN Asia Indonesia (1080p) [Geo-blocked]
-- Amedia Premium (720p)
-- Antena HD
-- Bắc Ninh TV (1080p)
-- ETV Plus HD (1080p)
-- KMOV-DT1 [Geo-blocked]
-- KTVK-DT1 (720p)
-- Lychnos TV (1080p)
-- Motor Trend
-- Nickelodeon (720p)
-- PNN (1080p)
-- Polonia 1
-- Polsat (1080p) [Geo-blocked]
-- Polsat 1 (1080p)
-- Polsat Reality (1080p)
-- Polsat Seriale (1080p)
-- Polsat Sport Premium 2 (1080p)
-- Qazaqstan TV (720p) [Not 24/7]
-- RU.TV (576p)
-- Rai 5 (1080p)
-- Rai Gulp (1080p)
-- Rai News 24 (1080p)
-- Rai Scuola (1080p)
-- Rai Yoyo (1080p)
-- Raj Digital Plus (576p)
-- Raj Musix Tamil (576p)
-- Star Vijay (576p)
-- Stars TV (1080p)
-- Super Digital TV (720p) [Not 24/7]
-- Suspilne. Krym (1080p) [Geo-blocked]
-- Suspilne. Kultura (1080p) [Geo-blocked]
-- Suspilne. Sport (1080p) [Geo-blocked]
-- TVC
-- TVC Super
-- TVO
-- TVP HD (1080p)
-- Tele5
-- Univision Tlnovelas [Not 24/7]
-- Vijay Super (576p)
-- WAPA-DT1 [Not 24/7]
-- WBTV-DT1 (720p)
-- WHSV-DT4
-- WLII-DT1 [Not 24/7]
-- WOIO-DT1 (720p)
-- WPXX-DT1
-- WXIX-DT1 (720p)
-- Zee Bangla (576p)
-- Zee Tamil (576p)
-- Zee Thirai HD (1080p)
-- viju TV1000 Русское
-- Βουλή Τηλεόραση 2 (540p) [Not 24/7]
-- Βουλή Τηλεόραση 3 (540p) [Not 24/7]
-- Авто Плюс (576p)
-- Еврокино (576p)
-- МАТЧ! Боец (576p)
-- Мама (576p)
-- ОТР (576p)
-- Родное Кино (576p)
-- Русский Экстрим (576p)
-- Суббота! (576p)
-- Уникум (576p)
-- Ю (720p)
+- &TV HD (1080p)
+- &xplor HD (720p)
+- A Punt
+- Ando TV
+- CCTV-16
+- CCTV-5+ (576i)
+- Colors Infinity (576p)
+- Disney XD East (720p) [Not 24/7]
+- ERT World (1080p)
+- MNX (576p)
+- National Geographic HD (1080p)
+- Nethra TV (360p)
+- Nickelodeon Asia Indonesia (1080p)
+- Polsat Film (1080p) [Not 24/7]
+- Rai 1 HD (720p) [Geo-Blocked]
+- Rai 2 HD (720p) [Geo-Blocked]
+- Rai 3 (720p)
+- Rai Gulp HD (720p) [Geo-Blocked]
+- Rai Scuola HD (720p) [Geo-Blocked]
+- Rai Sport HD (720p) [Geo-Blocked]
+- Rai Storia HD (1080p) [Geo-Blocked]
+- Sony BBC Earth HD English (1080p) [Geo-blocked]
+- Sony Max (1080p) [Geo-blocked]
+- Sony Max 2 (1080p) [Geo-blocked]
+- Sony Max HD (1080p) [Geo-blocked]
+- Sony Sports Ten 5 (1080p) [Geo-blocked]
+- Sony Sports Ten 5 HD (1080p) [Geo-blocked]
+- Swarnavahini (720p)
+- TNL TV (360p)
+- Teledeporte (720p) [Geo-blocked]
+- Trece TV (576p)
+- UNE TV (720p) [Not 24/7]
+- Zee TV (1080p)
 
 ### Channels Updated (Link Changed)
-- .sci-fi (576p)
-- BRIDGE Deluxe (1080p)
-- ETV Andhra Pradesh (1080p)
-- ETV Cinema HD (1080p)
-- ETV Telangana (1080p)
-- ETV Telugu HD (1080p)
-- Filmax (576p)
-- NickOnline Spongebob (1080p) [Not 24/7]
+- Colors Cineplex (576p)
+- Colors Cineplex HD (1080p)
+- Colors HD (1080p)
+- Colors Infinity HD (1080p)
+- Disney Channel (576p)
+- Disney International HD (1080p)
+- Disney Junior (576p)
+- Hungama TV (576p)
+- Júbilo TV (720p)
+- MTV HD (1080p)
+- Movies Now + (1080p)
+- National Geographic Wild HD (1080p)
+- Nick Jr. (576p)
+- Nickelodeon (576p)
+- Norteña TV
 - PTV Sports
 - PTV Sports
-- Play TV (720p)
-- STS kids (1080p)
-- TVP Info (1080p)
-- dlaCiebie.tv (1080p) [Not 24/7]
+- Sonic (576p)
+- Sony SAB HD (1080p)
+- Star Gold HD (1080p)
+- Star Gold Select HD (1080p)
+- Star Movies HD (1080p)
+- Star Sports 2 HD (1080p)
+- Star Utsav Movies (576p)
+- StarPlus HD (1080p)
+- Zee Bangla Sonar (576p)
+- Zee Bollywood (576p)
+- Zee TV HD (1080p)
