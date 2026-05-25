@@ -2,154 +2,189 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-05-18 06:41 UTC
+Last Updated: 2026-05-25 06:58 UTC
 
 ### Channels Added
-- &xplor HD (1080p)
-- Alabbassia TV (1080p)
-- Ando TV (1080p)
-- Antena 3 (1080p)
-- Asianet Movies HD (1080p)
-- BBC News North America (1080p)
-- Bom Cine (1080p)
-- CCTV-1 (720p)
-- CCTV-10 (720p)
-- CCTV-11 (720p)
-- CCTV-12 (720p)
-- CCTV-14 (1080p)
-- CCTV-15 (720p)
-- CCTV-16 (1080p)
-- CCTV-17 (1080p)
-- CCTV-2 (720p)
-- CCTV-3 (720p)
-- CCTV-4 (720p)
-- CCTV-5 (720p)
-- CCTV-5+ (720p)
-- CCTV-7 (720p)
-- CCTV-8 (720p)
-- Channel One HD
-- Cuatro (1080p)
-- Disney XD (720p)
-- Divinity (1080p)
-- Domashnie Zhivotnye
-- ERT Cosmos (1080p)
-- Energy (1080p)
-- Epic TV (576p)
-- FDF (1080p)
-- GTV (1080p)
-- HITS Movies HD (720p)
-- HodHod Farsi TV (1080p)
-- Indiyskoye Kino
-- La 1 Comunitat Valenciana (1080p)
-- La 8 Mediterráneo (1080p)
-- La Sexta (1080p)
-- MNX HD (1080p)
-- Mega (1080p)
-- NST
-- National Geographic HD (576p)
-- Neox (1080p)
-- NickOnline Music (720p) [Not 24/7]
-- NickOnline SD (320p) [Not 24/7]
-- Nickelodeon Asia Indonesia (720p)
-- Pravah Picture HD (1080p)
-- REN TV HD
-- Rai 1 HD (1080p)
-- Rai 2 HD (1080p)
-- Rai 3 (1080p)
-- Rai Gulp HD (1080p)
-- Rai Scuola HD (1080p)
-- Rai Sport HD (1080p)
-- Rai Storia HD (1080p)
-- Retro
-- SPOTV (720p)
-- SPOTV 2 (1080p)
-- Sony Max 2 (576p)
-- Sony Max HD (1080p)
-- Sony Sports Ten 5 HD (1080p)
-- Squirrel (1080p)
-- Squirrel Dos (1080p)
-- Star Bharat HD (1080p)
-- Star Movies Select HD (1080p)
-- Star Sports 1 Hindi HD (1080p)
-- Star Sports 1 Tamil HD (1080p)
-- Star Sports 2 Tamil (576p)
-- Star Sports 3 (576p)
-- Star Utsav (576p)
-- T24
-- TV Natal (1080p)
-- TV5 Quebec Canada (1080p)
-- Telecinco (1080p)
-- Teledeporte (1080p)
-- Trece (1080p)
-- UNE TV (720p)
-- Veo7 (1080p)
-- Vijay Super HD (1080p)
-- Voprosy i Otvety
-- Zee Thirai HD (1080p)
-- zenith (1080p)
-- À Punt (1080p)
+- AXN Asia Indonesia (1080p)
+- Al Quran Al Kareem TV (1080p)
+- Atlas (480p)
+- BCN Gospel TV HD (720p)
+- BabyTV Spain (1080p)
+- Bani Vision (720p) [Not 24/7]
+- CCTV-15 (1080p)
+- Digital809 TV (720p) [Not 24/7]
+- DreamTV (1080p)
+- El-Heddaf TV (1080i)
+- GOD TV (396p)
+- HCH (720p)
+- HTV2
+- India Today (720p)
+- KSHB 41 (Kansas City MO) (720p)
+- Las Vegas Tonight with Dale Davidson (1080p)
+- MediBizTV (720p)
+- NDTV 24x7 (720p)
+- News 1 India (396p)
+- NickOnline (576p)
+- NowMedia Television (1080p)
+- R&E TV (480p) [Not 24/7]
+- RNN DOS (720p) [Not 24/7]
+- RSV Honduras (720p)
+- Red Social Codi TV (720p) [Not 24/7]
+- Republic Bharat (1080p)
+- TELESIGLO (1080p) [Not 24/7]
+- TIV Television (720p)
+- Teleceiba (720p)
+- Telemundo Internacional
+- Times Now Navbharat (1080p)
+- Villa Altagracia TV (1080p) [Not 24/7]
+- Whiplash (720p)
+- Whiplash Cinema (480p)
+- Whiplash II (480p)
+- Window TV (720p)
+- mfm (1080p)
 
 ### Channels Removed
-- &TV HD (1080p)
-- &xplor HD (720p)
-- A Punt
-- Ando TV
-- CCTV-16
-- CCTV-5+ (576i)
-- Colors Infinity (576p)
-- Disney XD East (720p) [Not 24/7]
-- ERT World (1080p)
-- MNX (576p)
-- National Geographic HD (1080p)
-- Nethra TV (360p)
-- Nickelodeon Asia Indonesia (1080p)
-- Polsat Film (1080p) [Not 24/7]
-- Rai 1 HD (720p) [Geo-Blocked]
-- Rai 2 HD (720p) [Geo-Blocked]
-- Rai 3 (720p)
-- Rai Gulp HD (720p) [Geo-Blocked]
-- Rai Scuola HD (720p) [Geo-Blocked]
-- Rai Sport HD (720p) [Geo-Blocked]
-- Rai Storia HD (1080p) [Geo-Blocked]
-- Sony BBC Earth HD English (1080p) [Geo-blocked]
-- Sony Max (1080p) [Geo-blocked]
-- Sony Max 2 (1080p) [Geo-blocked]
-- Sony Max HD (1080p) [Geo-blocked]
-- Sony Sports Ten 5 (1080p) [Geo-blocked]
-- Sony Sports Ten 5 HD (1080p) [Geo-blocked]
-- Swarnavahini (720p)
-- TNL TV (360p)
-- Teledeporte (720p) [Geo-blocked]
-- Trece TV (576p)
-- UNE TV (720p) [Not 24/7]
-- Zee TV (1080p)
+- A&E Latin America South (480p)
+- AMC Latin America (1280p)
+- AXN Asia Indonesia (720p)
+- AXN Latin America South (2160p)
+- Al Quran Al Kareem TV (720p)
+- America Internacional (720p)
+- Azteca Honduras (720p)
+- C5N (1080p)
+- CCTV-15 (720p)
+- Ceiba Vision Canal 36
+- Cine.Ar (1080p)
+- Cinecanal South (1080p)
+- Ciudad Magazine (720p)
+- Comedy Central Latin America (1080p)
+- Cronica TV (1280p)
+- DAN TV (1080p) [Not 24/7]
+- DTV
+- Decades
+- DeporTV
+- Digital809 TV (720p)
+- Disney Channel Latin America (1080p)
+- E! Latin America (720p)
+- Edu+ TV
+- El Gourmet South (720p)
+- El Nueve (720p)
+- El Oussra TV
+- Encuentro (1080p)
+- Esaie 45 Tele
+- Euronews Georgia
+- FX Latin America South (720p)
+- Fasso TV Kankan
+- Fox Sports 3 Latin America (1080p)
+- GTV (1080p)
+- Go TV
+- HCH
+- History 2 Latin America (480p)
+- History Latin America South (480p)
+- IP Noticias (480p)
+- India Today (720p) [Not 24/7]
+- Justice Central TV
+- KCPT-DT1 (720p)
+- KCTV-DT1 (720p)
+- KCWE-DT1 (720p)
+- KMBC-DT1 (720p)
+- KMBC-DT2 (720p)
+- KMCI-DT1 (720p)
+- KMIZ-DT1 (720p)
+- KMIZ-DT2 (720p)
+- KMIZ-DT3 (720p)
+- KNLJ-DT1 (720p)
+- KOMU-DT1 (720p)
+- KOMU-DT3 (720p)
+- KPXE-DT1 (720p)
+- KQFX-LD1 (720p)
+- KRCG-DT1 (720p)
+- KRCG-DT2 (720p)
+- KSHB-DT1 (720p)
+- KSHB-DT2 (720p)
+- KSHB-DT3 (720p)
+- KSMO-DT1 (720p)
+- KTLA-DT1
+- KTVO-DT1 (720p)
+- KTVO-DT2 (720p)
+- KTVO-DT3 (720p)
+- KYOU-DT2 (720p)
+- KYOU-DT4 (720p)
+- KYOU-DT5 (720p)
+- Kartuli TV (480p)
+- Kavkasia TV
+- La Nacion + (720p)
+- Lifetime Latin America (720p)
+- MBC Loud (1080p)
+- MTV Latin America
+- Marao TV
+- Metro (480p)
+- Metropole
+- NDTV 24X7 (480p) [Not 24/7]
+- National Geographic Latin America South (720p)
+- NickOnline (720p)
+- NickOnline SD (320p) [Not 24/7]
+- ORF 1
+- Olanchito TV Canal 23
+- Pakapaka (1080p)
+- Paradise TV
+- Pasiones
+- Pos TV
+- Quiero Musica en mi Idioma (1080p)
+- R&E TV (720p)
+- RSV Honduras
+- RTD
+- RTD 4
+- RTV
+- Radio Tele SuperStar
+- Red Social Codi TV (360p) [Not 24/7]
+- Republic Bharat (1080p) [Geo-blocked]
+- Roya TV (1080p) [Not 24/7]
+- SRC Media TV (720p) [Not 24/7]
+- Silk Universal
+- Solucion TV (720p) [Not 24/7]
+- Sony SAB HD (1080p)
+- Star Channel Latin America South (1080p)
+- Studio Universal Latin America South (720p)
+- TV 25
+- TV Pirveli
+- TV Publica (720p)
+- TeleProgreso
+- Telecadena 7 y 4
+- Teleceiba (1080p)
+- Telefe (1080p)
+- Telefe Santa Fe (1080p)
+- Telemundo Internacional (720p)
+- Telemundo Internacional Central America (1080p)
+- Thmanyah 2 (1080p)
+- Times Now Navbharat (1080p) [Geo-blocked]
+- TyC Sports Latin America (1080p)
+- Universal Somali TV
+- Universal TV Latin America South (480p)
+- VillaAltagracia TV
+- Volver (480p)
+- WAGA-DT1
+- WDAF-DT1 (720p)
+- WDAF-DT2 (720p)
+- WHSG-DT4
+- WKCF-DT2
+- WKMG-DT1
+- WKOH-DT4
+- WLVT-DT1
+- WTMO-CD1
+- WUPA-DT1
+- WXXA-DT3
 
 ### Channels Updated (Link Changed)
-- Colors Cineplex (576p)
-- Colors Cineplex HD (1080p)
-- Colors HD (1080p)
-- Colors Infinity HD (1080p)
-- Disney Channel (576p)
-- Disney International HD (1080p)
-- Disney Junior (576p)
-- Hungama TV (576p)
-- Júbilo TV (720p)
-- MTV HD (1080p)
-- Movies Now + (1080p)
-- National Geographic Wild HD (1080p)
-- Nick Jr. (576p)
-- Nickelodeon (576p)
-- Norteña TV
+- Bab Al Hara (1080p)
+- Brat TV (1080p)
+- Comedy TV
+- Cricket Gold (1080p)
+- Just for Laughs Gags (1080p)
+- Kurdsat (1080p)
+- Maraya (1080p)
+- Movies Action (1080p)
 - PTV Sports
 - PTV Sports
-- Sonic (576p)
-- Sony SAB HD (1080p)
-- Star Gold HD (1080p)
-- Star Gold Select HD (1080p)
-- Star Movies HD (1080p)
-- Star Sports 2 HD (1080p)
-- Star Utsav Movies (576p)
-- StarPlus HD (1080p)
-- Zee Bangla Sonar (576p)
-- Zee Bollywood (576p)
-- Zee TV HD (1080p)
+- Portal Digital TV (720p) [Not 24/7]
+- TeleBendicion (720p) [Not 24/7]
