@@ -2,421 +2,163 @@
 
 ## 📡 Auto Playlist Update Overview
 
-Last Updated: 2026-08-24 03:41 UTC
+Last Updated: 2026-08-31 08:57 UTC
 
 ### Channels Added
-- &pictures (720p)
-- 13Rec (720p)
-- 24 Horas (1080p)
-- 3ABN International Network (720p)
-- 6 TV Telugu (576p)
-- ACC Network (720p)
-- AFV (720p)
-- APN (576p)
-- ATV Avrupa (576p)
-- AXN Latin America Chile (1080p)
-- Aadinath TV (576p)
-- Alb UK TV (1080p)
-- Albanian TV America (1080p)
-- Alsat (576p)
-- America Paraguay (720p)
-- Argus News (576p)
-- Awakening TV (576p)
-- Ayush TV (576p)
-- Az Cinema (1080p)
-- BATV Educational Channel
-- BATV Government Channel
-- BATV Public Channel
-- BabyTV Latin America (1080p)
-- Best of BATV Channel
-- Bhakti Sagar (576p)
-- Bharat Express (576p)
-- Bharat Samachar (576p)
-- Bilyonaryo News Channel (1080p) [Geo-blocked]
-- Bio Bio TV (1080p)
-- Bounce (720p)
-- CDN Deportes (720p) [Not 24/7]
-- CDO (1080p)
-- CNA International (576p)
-- Canal 8 San Juan (720p) [Not 24/7]
-- Canal CHV Noticias (1080p)
-- Comedy Play (576i)
-- Coral 39 (1080p) [Not 24/7]
-- DD News (576p)
-- DD Tamil HD (1080p)
-- Darshan 24 (576p)
-- Darshana TV (576p)
-- Dong Nai TV 1 (720p)
-- Duronto TV (720p)
-- E 24 (576p)
-- ESPNews (720p)
-- ETC TV (1080p)
-- El Gourmet South (1080p)
-- Elrodi TV (576p)
-- Epic Bharat Digital (1080p)
-- Epic Crimes (1080p)
-- Epic Kids Digital (1080p)
-- Epic Music Digital (1080p)
-- Eurochannel (1080p)
-- Euronews Spanish (1080p)
-- Europa Europa (1080p)
-- FMH Kids (1080p)
-- FMH Movies (1080p)
-- FX Movie Channel (720p)
-- Faith Africa (1080p)
-- Faith TV (1080p)
-- Faith UK (1080p)
-- FightBox HD
-- First Channel (1080p)
-- First India News (576p)
-- Freeform (1080p) [Geo-blocked]
-- GikTVMX (720p)
-- Global Trekker (720p)
-- Guangxi Variety & Travel Channel
-- Gujarat First (576p)
-- HTV1 (720p)
-- HTV2 (720p)
-- HTV3 (720p)
-- HTV4 (1080p)
-- HTV7 (720p)
-- HTV9 (720p)
-- Hope Channel India (576p)
-- IBC 24 (576p)
-- In Touch+ (1080p) [Geo-blocked]
-- Ind 24 (576p)
-- India Voice (576p)
-- Inter TV (1080p)
-- Iqra Bangla (576p)
-- JOTX-DTV
-- Jai Maharashtra (576p)
-- Jaihind TV (576p)
-- Jantantra TV (576p)
-- KBS Joy [Not 24/7]
-- KMCT-TV 39.1
-- Kalinga TV (576p)
-- Kanal D2 (1080i)
-- Kangba TV
-- Khabar Fast (576p)
-- Khabrain Abhi Tak (576p)
-- Klan Kosova (720p)
-- Kohavision (720p)
-- La Red (1080p)
-- Laff (576p)
-- Lifetime (576p)
-- MKN Marathi (576p)
-- MRTV Sports [Not 24/7]
-- MTV Live (720p)
-- MTV2 (720p)
-- Madha TV (576p)
-- Mahaa Max (576p)
-- Mahaa News (576p)
-- Manoranjan Prime (576p)
-- Master Chefs Academy TV (720p)
-- Mathrubhumi News (576p)
-- Max (576p)
-- Mazhavil Manorama (576p)
-- Mega Ficcion (1080p)
-- Meganoticias Ahora (1080p)
-- Megatiempo (1080p)
-- Moon TV (576p)
-- My Music (576p)
-- NHK World Premium (720p)
-- NHK World-Japan HD (1080p) [Geo-blocked]
-- NTD TV West (720p)
-- NTV (1080p)
-- Nagaland TV (576p)
-- Nandighosha TV (576p)
-- Nano HD (1080p)
-- Nepal 1 (576p)
-- Network 10 (576p)
-- News 1 India (576p)
-- News 24 MP & Chhattisgarh (576p)
-- NewsX (576p)
-- NewsX World (576p)
-- Nexus TV (576p)
-- Nick Jr. Asia (720p)
-- Nuevo Tiempo TV (1080p)
-- OM TV (576p)
-- One America News Network (720p)
-- Outdoor Channel HD (720p)
-- Paras Gold (576p)
-- Paravision
-- Peace of Mind TV (576p)
-- PixL TV
-- Polsat Viasat History (1080p)
-- Prag News (576p)
-- Prameya News7 (576p)
-- Prime9 News (576p)
-- Pudhari News (576p)
-- Pursuit Channel (720p)
-- RFD-TV
-- RTK 1 (1080p)
-- RTV Islam (720p)
-- Raftaar Media (576p)
-- Rai News 24 HD (1080p)
-- Raj News Kannada (576p)
-- Ruta 66 TV (1080p) [Not 24/7]
-- S Premium! (360p)
-- S Tom Sings (1080p)
-- SEC Network (1080p)
-- STV (360p)
-- SUR TV Itapua
-- SYFY (720p)
-- Sadhna News Madhya Pradesh/Chhattisgarh (576p)
-- Sadhna TV (576p)
-- Sai TV (576p)
-- Sangat TV (576p)
-- Show Turk (1080p)
-- SiTV (1080p) [Not 24/7]
-- Sky Mix HD (720p)
-- Sky Sports F1 HD (720p)
-- Sky Sports Golf HD (720p)
-- Sozcu TV (1080p)
-- Star TV
-- Star Vijay (396p)
-- Starz Edge (720p)
-- Starz Encore Spanish (720p)
-- Subharti TV (576p)
-- TBC1
-- TGCom24 (720p)
-- TV Camara (1080p)
-- TV Canal Sur (720p) [Not 24/7]
-- TV Klan (720p)
-- TVE Internacional America (1080p)
-- TVN3 (1080p)
-- TVR (1080p)
-- Tele7music (576i)
-- Telemedios Canal 8 (1080p) [Not 24/7]
-- Telemundo Al Dia (720p)
-- Telemundo West HD (720p)
-- Telesol (1080p)
-- Teletrak TV (1080p)
-- The Doctors (720p)
-- The Walk TV
-- Top Channel (1080p)
-- Trece
-- Tring History (720p)
-- Tring Kids (576p)
-- UCV TV (1080p)
-- Unicanal
-- Unknown Russia HD (1080p)
-- Via X (1080p)
-- Vinh Long TV 1 (720p)
-- Vinh Long TV 3 (720p)
-- Vinh Long TV 4 (720p)
-- Vissa TV (576p)
-- Vitebsk
-- WGGS-TV 16.1
-- WP TV (1080p) [Geo-blocked]
-- WTMO-CD 31.1 (720p)
-- World TV Guatemala (720p)
-- Zee Tamil HD (720p)
-- Zodiak TV (1080p)
-- Zona M
-- 滁州市广播电视台 科教频道 (400p)
+- 24/7 Canal de Noticias
+- 7 Gold (1080p)
+- ABHP TV (480p)
+- ARY News
+- Aaj Ki Khabar (1080p)
+- Aik News
+- Ajwa TV (1080p)
+- Antena 1 (1080p)
+- Antena Stars (720p)
+- Arges TV (720p)
+- Asianet HD (720p)
+- Atlanta's 57 WATC TOO 57.2 (720p)
+- BN Channel (1080p)
+- BRK News (720p)
+- Bol Entertainment HD
+- Canale 5 HD
+- Cine34 HD (1080p)
+- Crime + Investigation Asia (1080p)
+- DSports
+- DSports 2
+- DaAi 2 (1080p)
+- Daily Post TV (1080p)
+- Deewana HD (540p)
+- Dhool TV (576p)
+- Digi Sport 2 (1080p)
+- Digi Sport 3 (576p)
+- Digi Sport 4 (1080p)
+- Disha TV (396p)
+- Diya TV (1080p)
+- ETV Beats (1080p)
+- Epic Bhojpuri Digital (1080p)
+- Espansione TV (576p)
+- FILMBOX+ Comedy Romania
+- FILMBOX+ Festival HD (1080p)
+- FILMBOX+ Hits Romania (576p)
+- FILMBOX+ Love & Crime Romania
+- FILMBOX+ One Romania (576p)
+- France 24 English HD (1080p)
+- Genesis Science Network (720p)
+- Goldmines Bollywood (576p)
+- Greater Love TV (720p)
+- Harmony Gospel Music TV (1080p)
+- Hello Taste
+- Hosanna TV
+- Hosanna TV Global
+- Hosanna TV Hindi
+- Iris HD (1080p)
+- JTV Kediri (1080p) [Not 24/7]
+- K100 (1080p)
+- La Rosa de Guadalupe (360p)
+- Lazio Style Channel HD (720p)
+- MH One Shraddha (576p)
+- MOMO TV (1080p)
+- MTV
+- MTV Global (720p)
+- MWD Movies [Not 24/7]
+- NBT TV Chiang Mai
+- NHK World-Japan HD (1080p)
+- NPO 3 HD (720p) [Geo-blocked]
+- Paraguay TV (1080p)
+- Pocket Films
+- RadiantTV (1080p)
+- Ray TV HD
+- Ray TV HD (576p)
+- Samachar Plus 24x7 (576p)
+- Sharnam TV (576p)
+- Sky Sports Football (720p)
+- Soham TV (576p)
+- Somos Entre Rios (360p)
+- Star Jalsha HD (720p)
+- Star Maa HD (720p)
+- Star Maa Movies HD (720p)
+- Star Pravah HD (720p)
+- Surau TV (720p)
+- Suvarna News (576p)
+- Swerve Sports (720p)
+- TV-WEST (720p) [Not 24/7]
+- TV13 Gujarati (480p)
+- Tamilan TV (576p)
+- Tele Posadas HD (720p)
+- Telecity Lombardia (1080p)
+- The Cabbin FM
+- The Loop (1080p)
+- The Point Televsion Network (1080p)
+- VTV HD (1080p)
+- Vedic (576p)
+- Viasat Kino Balkan (1080p)
+- Video Mix TV
+- Village TV (1080p)
+- WOW Kidz Tamil (720p)
+- World Punjabi TV (1080p)
+- YET Max (720p)
+- YET TV (720p)
+- ticker News (1080p)
 
 ### Channels Removed
-- 13Rec (576p)
-- 3ABN International Network
-- A2Z (480p) [Not 24/7]
-- ABC Australia (1080p)
-- ALLTV2 (480p) [Not 24/7]
-- ANC (480p)
-- AXN Black Romania [Not 24/7]
-- AXN White [Not 24/7]
-- AlbUK TV (1080p) [Not 24/7]
-- Aliw Channel 23 (480p) [Not 24/7]
-- Alsat [Geo-blocked]
-- America’s Funniest Home Videos (1080p)
-- Anime Zone TV (480p)
-- Aspire (720p)
-- Ayush TV (360p) [Not 24/7]
-- BS Fuji (1080p)
-- BabyTV Latin America (720p)
-- Bharat Express (480p)
-- Bharat Samachar (480p)
-- Bilyonaryo News Channel (1080p)
-- Bio Bio TV (720p)
-- Bounce (1080p)
-- CNA (480p)
-- Cartoon Channel PH (720p) [Geo-blocked]
-- Celestial Classic Movies (480p)
-- Cinema One (480p)
-- Cinemo (480p)
-- DD News
-- DD Tamil (1080p)
-- DZMM TeleRadyo (480p)
-- DZRHTV (480p)
-- EDGEsport (480p)
-- ESPN Deportes (720p)
-- Euronews Spanish (720p)
-- First India News (360p) [Not 24/7]
-- Freeform (1080p)
-- GMA TV (480p) [Not 24/7]
-- GTV (480p) [Not 24/7]
-- Great American Family (1080p)
-- HTV Key (1080p)
-- Hallmark Family (1080p)
-- Hallmark Mystery (1080p)
-- Home Network (720p)
-- IBC 13 (480p) [Not 24/7]
-- IBC 24 (720p)
-- INSP (720p)
-- In Touch+ (1080p)
-- Jaihind TV (396p)
-- Jeepney TV (480p)
-- Justice Central TV (720p)
-- Kalinga TV
-- Kapamilya Channel HD (1080p)
-- Khabrain Abhi Tak (396p)
-- Knowledge Channel (480p)
-- Kohavision
-- La Red (720p) [Not 24/7]
-- Laff (1080p)
-- Lifetime (720p)
-- Lifetime Real Women (576p)
-- Light TV (480p) [Not 24/7]
-- Logo (720p)
-- M4 Sport
-- MTV Classic (576p)
-- MTV Live (1080p)
-- MTV2 (1080p)
-- Madha TV
-- Mahaa News
-- Manoranjan Prime
-- Mathrubhumi News (576p) [Not 24/7]
-- Mazhavil Manorama (396p)
-- Moon TV
-- Much (720p)
-- Myx (480p)
-- NET25 (480p)
-- NHK BS (1080p)
-- NHK World Japan (1080p)
-- NTD TV West
-- National Geographic Wild (720p)
-- Nazara (1080p)
-- Nepal 1 (396p)
-- Network 10
-- News 1 India (396p)
-- NewsNation (720p)
-- NewsNet (720p) [Not 24/7]
-- Nick Jr Asia (1080p)
-- Nova (720p)
-- Nuevo Tiempo TV
-- One America News Network (1080p)
-- One Media Network (480p)
-- One Sports (480p) [Not 24/7]
-- Outdoor Channel HD (1080p)
-- Ovation (1080p)
-- PBO (480p)
-- PTV 4 (480p) [Not 24/7]
-- Paramount Network (720p)
-- Pingviin (576p)
-- PixL TV (720p)
-- Pop TV (720p)
-- Premier Football (1080p)
-- Pursuit Channel (1080p)
-- RFD-TV (1080p)
-- RJTV 29 (480p) [Not 24/7]
-- RPTV (480p) [Not 24/7]
-- Raftaar Media (240p)
-- Redseat The First (720p)
-- SYFY (1080p)
-- Sai TV
-- Showtime (720p)
-- Showtime 2 (1080p)
-- Showtime Extreme (1080p)
-- Showtime Next (720p)
-- Showtime West (720p)
-- Showtime Women (720p)
-- Sky Sports Golf HD (1080p)
-- Smithsonian Channel (1080p)
-- Solar Sports (480p)
-- SolarFlix (480p)
-- SportsNet New York (1080p)
-- Sportsman Channel (720p)
-- Star Channel (480p) [Not 24/7]
-- Start TV (720p)
-- Starz Edge (1080p)
-- Starz Encore (1080p)
-- Starz West (720p)
-- Sundance TV (720p)
-- TBN Asia (480p)
-- TGCom 24 [Geo-blocked]
-- TMC (480p)
-- TSN1 (1080p)
-- TV Canal Sur (1080p)
-- TV Land (720p)
-- TV Maria (480p)
-- TV One (1080p)
-- TV Republika (1080p) [Geo-blocked]
-- TV Senado (360p)
-- TV5 (480p) [Not 24/7]
-- TVN3 (1080p) [Geo-blocked]
-- TVR (1080p) [Not 24/7]
-- Tap Action Flix (480p)
-- Tap Edge (480p)
-- Tap Movies (480p)
-- Tap TV (480p)
-- Telemundo Al Dia
-- Teletrak (720p)
-- Tigo Sports+
-- UCV TV (720p)
-- UNTV (480p)
-- USA Network West (1080p)
-- Up TV (1080p)
-- VH1 (720p)
-- VH1 West (720p)
-- Via X (720p)
-- Viva Cinema (480p)
-- W Network (720p)
-- WP TV (1080p)
-- Đồng Nai 1 (480p) [Not 24/7]
-- Нано ТВ HD (576p)
-- 山西影视
-- 山西文体
-- 山西法治
-- 山西经济
-- 滁州公共 (450p)
-- 滁州新闻综合 (450p)
-- 滁州科教 (450p)
-- 邢台城生
-- 邢台综合
+- &flix HD (1080p)
+- &pictures HD (1080p)
+- &xplor HD (1080p)
+- 8TV
+- Antena International (720P)
+- Antena Monden (720p)
+- BRK News (576p)
+- Bravo +1
+- Channel 5 HD (720p)
+- Crime + Investigation Asia HD (720p) [Geo-blocked]
+- DaAi2 (大愛2) (720p)
+- Dog TV (720p)
+- ETV Abhiruchi (1080p)
+- Extra TV (1080p)
+- Fox Sports (720p) [Not 24/7]
+- Gen
+- Hello Taste (720p)
+- ITV1 (1080p)
+- Izzah TV (480p)
+- NHK World-Japan HD (1080p) [Geo-blocked]
+- Odeon 24 (288p)
+- Salam TV (1080p)
+- Samachar Plus
+- Sky Sports F1 HD (720p)
+- Sky Sports Football (1080p)
+- Sky Sports Golf HD (720p)
+- Sky Sports Main Event HD (1080p)
+- Star Gold 2 (576p)
+- Star Gold HD (1080p) [Not 24/7]
+- Star Gold Romance (576p)
+- Star Movies HD (1080p)
+- Star Movies Select HD (1080p)
+- Subharti TV (576p)
+- Surau TV
+- Swerve Combat (720p)
+- TV1000 (1080p)
+- Tele Posadas (720p)
+- VTV (1080p)
+- Vedic (480p)
+- Village TV (576p)
+- WATC Harmony Gospel Music TV (1080p)
+- WATC The Loop (1080p)
+- WATC The POINT Network (1080p)
+- Wesal TV (720p) [Not 24/7]
+- Zee Marathi (576p)
+- Zee Talkies HD (1080p)
 
 ### Channels Updated (Link Changed)
-- ATV (1080p)
-- CVR OM Spiritual (576p)
-- ESPN Deportes HD (720p)
-- Fox Business Network (720p)
-- Fox Sports 2 (720p)
-- HSN (720p)
-- Hindi Khabar (576p)
-- Hindu Dharmam (576p)
-- History (720p)
-- Hornbill TV (576p)
-- Jan TV (576p)
-- Kairali We (576p)
-- Kappa TV (576p)
-- MS NOW (720p)
-- MTV (720p)
-- MeTV (720p)
-- National Geographic (720p)
-- News 1st (576p)
-- News Live (576p)
-- Newsmax TV (720p)
-- Oxygen (720p)
+- CBS Sports Golazo Network (720p)
+- Channel 5 (1080p)
+- ETV Music (1080p)
 - PTV Sports
 - PTV Sports
-- QVC (720p)
-- Super Digital TV (1080p) [Not 24/7]
-- TBC2 (1080p)
-- TV BRICS Russian (1080p)
-- TV Senado (720p)
-- TV5 Kannada (576p)
-- TVP1 (1080p)
-- Tele Dajabon TV (720p) [Not 24/7]
-- Thanthi TV (576p)
-- USA Network (1080p)
-- Vanitha TV (576p)
-- We TV (720p)
-- WeatherNation (1080p)
+- Sankara TV (576p)
+- Schwab Network (1080p)
+- Shemaroo Umang (720p)
+- Star Gold Select HD (1080p)
+- Velicham TV (576p)
+- Vendhar TV (576p)
+- WOW Kidz (720p)
+- Win TV (576p)
